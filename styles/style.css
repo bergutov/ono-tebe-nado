@@ -122,6 +122,8 @@
     font-size: 22px;
     text-transform: uppercase;
     background-color: transparent;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
 }
 
 .card-link {
